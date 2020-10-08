@@ -17,4 +17,5 @@ Features:
 
 Network Replicated: Yes
 
+Look at wiki for details: https://github.com/station437/SimpleInventoryLogic/wiki
  
