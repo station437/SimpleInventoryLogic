@@ -1,4 +1,6 @@
-!!!DEPRECATED AND DISCONTINUED!!! (there are some bugs also) A new component will be added later.
+## ! DEPRECATED AND DISCONTINUED !
+
+***There are some bugs also. A new component will be added later.***
 
 Please note that this asset is only a mechanic (the 'game logic' or 'backend') of a simple inventory (1 slot - 1 item).
 
